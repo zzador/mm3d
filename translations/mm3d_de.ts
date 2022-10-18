@@ -4703,7 +4703,7 @@ Wollen sie alle Sektionen laden?</translation>
     <message>
         <location line="+104"/>
         <source>Create Cylinder</source>
-        <translation>Erstelle Würfel</translation>
+        <translation>Erstelle Zylinder</translation>
     </message>
     <message>
         <location filename="../src/tools/ellipsetool.cc" line="+187"/>
